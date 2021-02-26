@@ -1,3 +1,124 @@
+body {
+  background-color: rgba(30, 162, 126, 0.563);
+}
 
+h1 {
+  height: 12vh;
+  background: #206f99;
+  display: flex;
+  justify-content: center;
+}
+
+.btn-grey {
+  background: #dadde2;
+  justify-content: center;
+}
+
+.gras {
+  border: solid black 3px;
+}
+
+.trait {
+  border: dashed;
+}
+
+.fin {
+  border: solid black;
+}
+
+.top1 {
+  border-top: solid red 2px;
+}
+
+.top2 {
+  border-top: solid red 5px;
+}
+
+.choisir {
+  min-width: 20vw;
+  min-height: 10vh;
+}
+
+.ipt1 {
+  display: inline;
+  padding: 1px;
+  border: solid black 3px;
+  min-height: 9vh;
+  width: 6vw;
+}
+
+.ipt2 {
+  display: inline;
+  border-top: solid black 3px;
+  min-height: 9vh;
+  width: 6vw;
+}
+
+.ipt3 {
+  display: inline;
+  border-right: solid black 3px;
+  min-height: 9vh;
+  width: 6vw;
+}
+
+.ipt4 {
+  display: inline;
+  border-top: solid black 1px;
+  border-left: solid black 1px;
+  border-bottom: solid black 3px;
+  min-height: 9vh;
+  width: 6vw;
+}
+
+.ipt5 {
+  display: inline;
+  border-top: solid black 1px;
+  border-left: solid black 3px;
+  min-height: 9vh;
+  width: 6vw;
+}
+
+.ipt6 {
+  display: inline;
+  border-radius: 25%;
+  min-height: 9vh;
+  width: 6vw;
+}
+
+.ipt7 {
+  display: inline;
+  min-height: 9vh;
+  width: 6vw;
+  border-top-left-radius: 25%;
+}
+
+.ipt8 {
+  display: inline;
+  min-height: 9vh;
+  width: 6vw;
+  border-top-right-radius: 25%;
+}
+
+.ipt9 {
+  display: inline;
+  min-height: 9vh;
+  width: 6vw;
+  border-bottom-right-radius: 25%;
+}
+
+.ipt10 {
+  display: inline;
+  min-height: 9vh;
+  width: 6vw;
+  border-bottom-right-radius: 25%;
+}
+
+.plan {
+  margin-inline-end: 10vw;
+  margin-top: -20vh;
+  height: 50vh;
+  width: 40vw;
+  border: solid black;
+}
 
 /*# sourceMappingURL=style.css.map */
